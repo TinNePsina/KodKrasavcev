@@ -1,0 +1,34 @@
+body {
+    margin: 10px;
+    padding: 20px;
+}
+ul {
+    padding: 10px;
+}
+li {
+    list-style-type: none;
+    padding: 5px;
+}
+.link {
+    padding: 5px;
+}
+.link:hover {
+    text-decoration: underline;
+}
+header {
+    color: DarkOrange   ;
+}
+body {
+    background-color: Gainsboro;
+    border: 1px solid darkgray; 
+    border-radius: 5px;   
+}
+body main section ul li {
+    border: 1px solid DarkGray;
+    border-radius: 5px;
+
+}
+a {
+    text-decoration: none;
+    font-weight: bold;
+}
